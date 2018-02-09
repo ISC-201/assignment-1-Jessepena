@@ -1,3 +1,6 @@
 [submodule "SDL2_OpenGL_BoilerPlate"]
 	path = SDL2_OpenGL_BoilerPlate
 	url = https://github.com/rroa/SDL2_OpenGL_BoilerPlate
+[submodule "Assignment_1_fixed"]
+	path = Assignment_1_fixed
+	url = https://github.com/Jessepena/Assignment_1_fixed.git
